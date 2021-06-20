@@ -8,4 +8,4 @@ I'm a mechatronic engineer :robot: and currently studying IT 👩‍💻. I am p
 - 🌱 Learning : Full-Stack | Open-Source
 - 💬 Hobbies: Movies | TV Series
 - 😄 Pronouns: she/her
-- ⚡ Languages: Python, C++
+- ⚡ Languages: C#, Java, JavaScript, Python, C++, C
