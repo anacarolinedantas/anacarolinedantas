@@ -4,8 +4,8 @@
 
 I'm a mechatronic engineer :robot: and currently studying IT 👩‍💻. I am passionate about technologies and open source.
 
-- 🔭 Working: Web Developer Intern at Esig
-- 🌱 Learning : all about Java
-- 💬 Hobbies: Movies and TV Series
+- 🔭 Working: Java Developer Intern at Esig
+- 🌱 Learning : Java, Spring Boot, Angular, AWS
+- 💬 Hobbies: watching movies and tv shows
 - 😄 Pronouns: she/her
-- ⚡ Languages: Java, JavaScript, Python, C#, C, C++
+- ⚡ Languages: Java, C#, JavaScript, Python, C, C++
